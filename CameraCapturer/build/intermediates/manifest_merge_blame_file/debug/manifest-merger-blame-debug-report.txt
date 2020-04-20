@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.twilio.video.examples.advancedcameracapturer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:5:5-7:34
+12        android:glEsVersion="0x00020000"
+12-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:6:9-41
+13        android:required="true" />
+13-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:7:9-32
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:9:5-64
+15-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:9:22-62
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:10:5-66
+16-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+17-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:11:5-70
+17-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:11:22-68
+18    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+18-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:12:5-79
+18-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:12:22-77
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:13:5-78
+19-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:13:22-76
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+20-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:14:5-75
+20-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:14:22-73
+21
+22    <application
+22-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:16:5-28:19
+23        android:allowBackup="true"
+23-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:17:9-35
+24        android:supportsRtl="true" >
+24-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:18:9-35
+25        <activity
+25-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:20:9-27:20
+26            android:name="com.twilio.video.examples.advancedcameracapturer.AdvancedCameraCapturerActivity"
+26-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:21:13-59
+27            android:configChanges="orientation|screenSize" >
+27-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:22:13-59
+28            <intent-filter>
+28-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:23:13-26:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:24:17-68
+29-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:24:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:25:17-76
+31-->C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:25:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

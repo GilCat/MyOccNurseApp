@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:3:11-69
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:5:5-7:34
+	android:glEsVersion
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:7:9-32
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:14:22-73
+application
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:16:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:17:9-35
+activity#com.twilio.video.examples.advancedcameracapturer.AdvancedCameraCapturerActivity
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:20:9-27:20
+	android:configChanges
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:22:13-59
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:21:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:23:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		ADDED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\GLASTRA-DT\AndroidStudioProjects\MyOccNurseApp\CameraCapturer\src\main\AndroidManifest.xml

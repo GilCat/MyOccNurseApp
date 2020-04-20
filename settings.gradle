@@ -1,0 +1,2 @@
+include ':app', 'quickstart'
+rootProject.name='MyOccNurseApp'

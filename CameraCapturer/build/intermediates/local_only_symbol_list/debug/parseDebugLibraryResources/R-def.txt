@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+id take_picture_button
+id toggle_flash_button
+id video_view
+layout activity_advanced_camera_capturer
+layout picture_image_view
+string camera_capturer_picture
+string close
+string flash_not_supported
+string permissions_needed
+string take_picture
+string take_picture_failed
+string toggle_flash
