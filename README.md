@@ -30,20 +30,16 @@ more comming soon
 
 ## Built With
 
-* [Twillio](http://www.twillio.com/1.0.2/docs/) - The web framework used
+* [Twillio](http://www.twillio.com/) - The Twillio API used
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-See the [tags on this repository](https://github.com/gilcats/mon/). 
+See the [tags on this repository](https://github.com/gilcat/MyOccNurseApp/). 
 
 ## Authors
 
-* **Gloria Lastra** - *Initial work* - [PurpleBooth](https://github.com/gilcats)
+* **Gloria Lastra** - *Initial work* - [GILCAT Solutions](https://github.com/gilcats)
 
 
 
